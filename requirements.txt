@@ -9,3 +9,4 @@ flask-redis
 gunicorn
 paramiko
 scp
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
