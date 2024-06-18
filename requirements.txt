@@ -9,3 +9,4 @@ flask-redis
 gunicorn
 paramiko
 scp
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
