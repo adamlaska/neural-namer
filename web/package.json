@@ -4,8 +4,8 @@
     "react": "^16.2.0",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.2.0",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
     "react-share": "^1.19.0",
     "semantic-ui-react": "^0.77.2",
     "whatwg-fetch": "^2.0.3"
